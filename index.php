@@ -6,5 +6,5 @@
 
 	echo "feature 2 - commit 1; commit 2";
 
-	echo "feature 3 - commit 1";
+	echo "feature 3 - commit 1; commit 2";
 
