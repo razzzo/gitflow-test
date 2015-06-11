@@ -4,5 +4,5 @@
 	echo "kolejna zmiana";
 	echo "kolejna zmiana - commit 3";
 
-	echo "feature 2 - commit 1";
+	echo "feature 2 - commit 1; commit 2";
 
