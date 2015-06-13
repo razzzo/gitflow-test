@@ -5,3 +5,4 @@ feature 9
 
 feature 10 
 	commit 1;
+	commit 2;
