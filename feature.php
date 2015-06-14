@@ -11,3 +11,6 @@ feature 10
 
 release 0.3
 	dodatkowe zmiany przed opublikowaniem wersji 0.3
+	
+release 0.4
+	dodatkowe zmiany przed opublikowaniem wersji 0.4
