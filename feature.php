@@ -22,5 +22,6 @@ release 0.5
 
 release 0.6
 	dodatkowe zmiany przed opublikowaniem wersji 0.6
+	zmiany dotyczce release zrobione na github
 
 	
