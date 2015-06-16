@@ -14,3 +14,5 @@ release 0.3
 	
 release 0.4
 	dodatkowe zmiany przed opublikowaniem wersji 0.4
+	
+zmiana na github
